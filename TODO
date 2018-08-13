@@ -1,0 +1,3 @@
+http_port = 8282;
+pool_address = "mining.bit.tube:13333";
+wallet_address = "WALLETADDRESS";
